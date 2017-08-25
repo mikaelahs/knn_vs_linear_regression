@@ -1,1 +1,2 @@
 # knn_vs_linear_regression
+This repository contains programs that compare the performances of k-nearest neighbors and linear regression on two separate datasets. The Boston dataset includes features of different towns with the intent of predicting the median value of owner-occupied homes. The climate dataset includes features of different weather stations with the intent of predicting temperature. This assignment was completed for an Introduction to Machine Learning class that was part of the MSAN program.
